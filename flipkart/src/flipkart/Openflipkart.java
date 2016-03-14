@@ -46,6 +46,7 @@ public class Openflipkart {
 		
 		System.out.println("flipkart opened");
 		System.out.println("sdn books displayed");
+		System .out.println("selected the book");
 	}
 
 
