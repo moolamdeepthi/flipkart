@@ -50,6 +50,7 @@ public class Openflipkart {
 		System.out.println("Test completed");
 		System.out.println("End");
 		System.out.println("move to next test");
+		System.out.println("");
 	}
 
 
